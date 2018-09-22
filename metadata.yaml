@@ -1,5 +1,8 @@
 _repo: Gleanings-in-Buddha-Fields-Studies-of-Hand-and-Soul-in-the-Far-East_55681
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55681-h/images/cover.jpg
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55681#Gleanings-in-Buddha-Fields-Studies-of-Hand-and-Soul-in-the-Far-East
 gutenberg_issued: '2017-10-05'
 gutenberg_type: Text
 identifiers:
